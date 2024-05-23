@@ -5,7 +5,7 @@
  * DOC: 23/05/2024
  * */
 
-include<stdio.h>
+#include<stdio.h>
 
 int main()
 {
